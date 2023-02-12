@@ -1,21 +1,57 @@
-### Hi there I am Mahdi Hasan Shuvo Welcome 👋 You in my Github Profile
+
 
 
 **mahdis4092/mahdis4092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey 👋, I'm Mahdi Hasan Shuvo!  Welcome You in my Github Profile
+  
+
+<a href="https://github.com/https://github.com/mahdis4092/" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahdi-hasan-shuvo-5024141b5/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
+
+
+
+### Glad to see you here!  
+*I am graduated from American International University -Bangladesh with a
+bachelor’s degree in computer science and engineering. I am an honest,
+diligent, and dedicated employee who can work under pressure and in
+challenging situations. I am proficient at problem solving and am
+interested in deep learning. I am interested in computer vision and
+natural language processing. More specifically, use graph neural networks
+and generative adversarial networks to address real-world problems.
+After finishing my graduation, I am currently attempting to integrate
+myself in professional life in order to take on new challenges.*  
+  
+
+<br/>  
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning :Graph neural networks and Generative adversarial networks to address real-world problems
+- - 📫 How to reach me: mahdishuvo99@gmail.com
+- 👯 I’m looking to collaborate on:My future research and project
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Github Stats  
+<table><tr><td valign="top" width="50%">
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdis4092&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=mahdis4092&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdis4092&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
 </div>  
@@ -72,7 +108,7 @@ Here are some ideas to get you started:
 
 <br/>  
 
-
+<!--
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/https://github.com/mahdis4092" target="_blank">
@@ -83,14 +119,10 @@ Here are some ideas to get you started:
 </a>  
 </div>  
   
-
+-->
 <br/>  
 
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahdis4092&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+ 
 
 
 ## Recent Blog Posts  
