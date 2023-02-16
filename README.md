@@ -39,22 +39,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+ <!-- Statistics -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=mahdis4092&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<h2 style="color: #44AEFB">📊 Statistics</h2>
 
-</td><td valign="top" width="50%">
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdis4092&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<!-- Begin Stats Cards -->
+<!-- Resources:  -->
+<!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- Streak Stats: https://github.com/denvercoder1/github-readme-streak-stats -->
+<!-- Change the value after ?username= to your GitHub username. -->
+<div class="stats" align="center">
 
-</td></tr></table>  
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdis4092&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
-<br/>  
+![GitHub Streak](https://streak-stats.demolab.com?user=mahdis4092&count_private=true&theme=algolia&border_radius=20)
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdis4092&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+</div>
+<!--  End Stats Cards -->
   
 
 ## My Skill Set  
@@ -122,7 +126,7 @@ Here are some ideas to get you started:
 -->
 <br/>  
 
- 
+
 
 
 ## Recent Blog Posts  
