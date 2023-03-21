@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahdis4092&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mahdis4092&count_private=true&theme=algolia&border_radius=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdis4092&layout=compact&show_icons=true&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdis4092&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdis4092&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
